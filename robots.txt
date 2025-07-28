@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nourhane-1.github.io/food-recipes/sitemap.xml
